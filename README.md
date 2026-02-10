@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm @Laitei40
+# 👋 Hi, I'm @Laitei40
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Developer+%7C+Language+Enthusiast;Community+Contributor;Preserving+Culture+Through+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Developer+%7C+Language+Enthusiast;Community+Contributor;Preserving+Culture+Through+Technology" alt="Typing SVG" />
 
 </div>
 
@@ -15,7 +15,7 @@ I'm a developer, language enthusiast, and community contributor passionate about
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👀 Interests
+## 👀 Interests
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAc3Pfv687qPC/giphy.gif">
 
@@ -85,7 +85,7 @@ const currentlyLearning = {
 
 ---
 
-## 🌍 What I'm Working On
+## ��� What I'm Working On
 
 <div align="center">
 

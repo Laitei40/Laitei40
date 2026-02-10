@@ -1,144 +1,76 @@
 <div align="center">
 
-# 👋 Hi, I'm @Laitei40
+# Laitei (Laitei40) 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Developer+%7C+Language+Enthusiast;Community+Contributor;Preserving+Culture+Through+Technology" alt="Typing SVG" />
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Laitei40&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-Welcome to my GitHub profile!  
-I'm a developer, language enthusiast, and community contributor passionate about using technology to preserve culture and empower people.
-
----
-
-## 👀 Interests
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAc3Pfv687qPC/giphy.gif">
-
-- 🌐 **Linguistics & Language Preservation**  
-  Especially focused on the **Mara language**, its documentation, standardization, and digital presence.
-- 💻 **Web Development**  
-  Building practical, user-friendly web applications with modern tools.
-- 🤝 **Open-Source Contribution**  
-  Contributing to projects that promote accessibility, inclusivity, and shared knowledge.
-- 🔧 **Language Technology**  
-  Exploring how technology can support minority and underrepresented languages.
-
----
-
-## 🌱 Currently Learning & Growing In
-
-```javascript
-const currentlyLearning = {
-    frontend: ["React", "Modern UI/UX"],
-    backend: ["Python", "Automation", "Data Handling"],
-    languageTech: [
-        "Mozilla Common Voice",
-        "Text-to-Speech (TTS)",
-        "Natural Language Processing (NLP)",
-        "Localization & i18n tools"
-    ],
-    futureGoals: ["AI/ML", "Deep Learning"]
-};
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Developer+%E2%80%A2+Language+Technology+Advocate+%E2%80%A2+Community+Contributor;Building+digital+tools+for+language+preservation+and+education;Modern+web+experiences+for+culture%2C+community%2C+and+impact" alt="Animated typing intro" />
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Laitei40&label=Profile%20views&color=00e5ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-8A2BE2?style=for-the-badge" alt="Pronouns: He/Him" />
+  <img src="https://img.shields.io/badge/Focus-Mara%20Language%20Tech-00C853?style=for-the-badge" alt="Focus: Mara Language Tech" />
+</p>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I build practical digital products that connect **language**, **culture**, and **technology**—especially for the **Mara language** and underrepresented communities.
+
+- 🌐 Language preservation through modern digital platforms
+- 💻 Accessible, user-focused web development
+- 🤝 Open-source and community-first collaboration
+- ⚙️ Language technology for learning, documentation, and discovery
+
+---
+
+## 🚀 Current Priorities
+
+### 1) Language & Culture Projects
+- 📚 **Mara Encyclopedia (Mara Kyhbu)** — documenting knowledge in Mara
+- 🗂️ **Dictionary / Wiki initiatives** — building structured language resources
+- 🎵 **Lyrics & oral archive digitization** — preserving songs and cultural content
+
+### 2) Technical Growth
+- ⚛️ **Frontend:** React, design systems, and modern UI/UX
+- 🐍 **Backend:** Python automation, data pipelines, and APIs
+- 🗣️ **Language Tech:** NLP foundations, TTS workflows, localization, and Common Voice
+
+### 3) Long-Term Vision
+- 🤖 Apply **AI/ML for low-resource languages** to improve access, inclusion, and digital representation
+
+---
+
+## 🤝 Collaboration Interests
+
+I’m open to collaborating on:
+
+- 🌍 Localization and translation workflows
+- 🧬 Minority/indigenous language technology
+- 📖 Education-focused open-source tools
+- 🏘️ Community-centered digital platforms
+- 💡 Projects with measurable social and cultural impact
+
+---
+
+## 🧰 Programming & Tools (Neo Colors)
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0B0F1A" alt="React" />
+  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-FF4FD8?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-00E5FF?style=for-the-badge&logo=css3&logoColor=0B0F1A" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-FF6D00?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
 </p>
 
 ---
 
-## 💞️ Open to Collaboration On
-
-<table>
-  <tr>
-    <td>🌍</td>
-    <td>Localization and translation projects</td>
-  </tr>
-  <tr>
-    <td>🗣️</td>
-    <td>Minority and indigenous language technology</td>
-  </tr>
-  <tr>
-    <td>📚</td>
-    <td>Open-source tools for education and cultural preservation</td>
-  </tr>
-  <tr>
-    <td>🤝</td>
-    <td>Community-driven digital platforms</td>
-  </tr>
-  <tr>
-    <td>💡</td>
-    <td>Web apps that support social good and underrepresented communities</td>
-  </tr>
-</table>
-
-> 💬 If your project aligns with **language**, **culture**, or **community impact**, I'd love to collaborate!
-
----
-
-## ��� What I'm Working On
+## 📊 GitHub Overview
 
 <div align="center">
-
-| Project | Description |
-|---------|-------------|
-| 🧠 **Mara Encyclopedia (Mara Kyhbu)** | Documenting Mara knowledge in the Mara language |
-| 🎵 **Mara Lyrics Platform** | Preserving songs and hymns digitally |
-| 📚 **Dictionaries & Wikis** | Mara Wikipedia, Wiktionary, and language resources |
-| 🛠️ **Community Tech Support** | Helping people access and use technology effectively |
-| 🌐 **Language Preservation Projects** | Bridging tradition with modern digital tools |
-
-</div>
-
----
-
-## 😄 Pronouns
-<img src="https://img.shields.io/badge/Pronouns-he%20%2F%20him-blue?style=for-the-badge" alt="pronouns" />
-
----
-
-## ⚡ Fun Fact
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200">
-</div>
-
-> I'm actively building tools and platforms that **connect traditional culture with modern technology**, believing that small languages deserve a strong future on the global digital stage. 🚀
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Laitei40">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<div align="center">
-
-### If you're interested in:
-🌐 Language preservation | 🤝 Open-source collaboration  
-💻 Community-focused tech | 💡 Sharing ideas
-
-**Feel free to reach out or explore my repositories!**
-
-</div>
-
----
-
-<div align="center">
-  
-### ⚡ GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Laitei40&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
@@ -150,12 +82,22 @@ const currentlyLearning = {
 
 ---
 
+## 🌐 Let’s Connect
+
+<p>
+  <a href="https://github.com/Laitei40">
+    <img src="https://img.shields.io/badge/GitHub%20Profile-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub profile" />
+  </a>
+</p>
+
+If your project aligns with **language**, **culture**, **education**, or **community technology**, let’s collaborate.
+
+---
+
 <div align="center">
-  
-✨ *This repository is special because its `README.md` appears on my GitHub profile.*  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+*This repository is special — this `README.md` appears on my GitHub profile.*
 
-**Thanks for stopping by!** 🙏
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00F5FF,30:8A2BE2,70:39FF14,100:FF4FD8&section=footer" alt="Neon gradient footer" />
 
 </div>

@@ -9,16 +9,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Laitei40&label=Profile%20views&color=00e5ff&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/Theme-Neo%20Modern-8A2BE2?style=for-the-badge" alt="Neo modern theme" />
-### Developer • Language Technology Advocate • Community Contributor
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Laitei40&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-1f6feb?style=flat" alt="Pronouns: He/Him" />
 </p>
 
-</div>
-
-I build practical digital tools that support **language preservation**, **education**, and **community empowerment**, with a strong focus on the **Mara language**.
+Welcome to my GitHub profile!  
+I build technology that helps preserve culture, strengthen language access, and empower communities.
 
 ---
 
@@ -59,9 +53,16 @@ I build practical digital tools that support **language preservation**, **educat
 ---
 
 ## 🛠️ What I'm Working On
-## Collaboration Interests
 
-I’m open to collaborating on:
+<div align="center">
+
+| Project | Description |
+|---------|-------------|
+| 🧠 **Mara Encyclopedia (Mara Kyhbu)** | Documenting Mara knowledge in the Mara language |
+| 🎵 **Mara Lyrics Platform** | Preserving songs and hymns digitally |
+| 📚 **Dictionaries & Wikis** | Mara Wikipedia, Wiktionary, and language resources |
+| 🛠️ **Community Tech Support** | Helping people access and use technology effectively |
+| 🌐 **Language Preservation Initiatives** | Bridging tradition with practical modern digital tools |
 
 - 🌍 Localization and translation tooling
 - 🗣️ Minority and indigenous language technology
@@ -73,15 +74,6 @@ I’m open to collaborating on:
 
 ## 😄 Pronouns
 <img src="https://img.shields.io/badge/Pronouns-he%20%2F%20him-8A2BE2?style=for-the-badge" alt="pronouns" />
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
 
 ---
 
@@ -100,11 +92,18 @@ I’m open to collaborating on:
 <p>
   <a href="https://github.com/Laitei40">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub" />
-    <img src="https://img.shields.io/badge/GitHub%20Profile-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub profile" />
   </a>
 </p>
 
-If your project aligns with **language**, **culture**, **education**, or **community technology**, let’s collaborate.
+<div align="center">
+
+### Open to conversations about:
+🗣️ Language technology | 🤝 Open-source collaboration  
+💻 Community-focused solutions | 💡 Practical digital impact
+
+**Feel free to connect or explore my repositories!**
+
+</div>
 
 ---
 
@@ -123,7 +122,6 @@ If your project aligns with **language**, **culture**, **education**, or **commu
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00F5FF,30:8A2BE2,70:39FF14,100:FF4FD8&section=footer" alt="footer" />
-*This is a special repository: this `README.md` is displayed on my GitHub profile.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 

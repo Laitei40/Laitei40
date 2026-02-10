@@ -13,8 +13,10 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Laitei40&label=Profile%20Views&color=00d4ff&style=flat-square)
-![Status](https://img.shields.io/badge/Status-Building-00F5FF?style=flat-square&logo=github)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Laitei40&label=Profile%20views&color=052566&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Theme-Neo%20Modern-8A2BE2?style=for-the-badge" alt="Neo modern theme" />
+</p>
 
 </div>
 

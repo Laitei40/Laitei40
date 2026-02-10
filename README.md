@@ -123,6 +123,4 @@ If your project aligns with **language**, **culture**, **education**, or **commu
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00F5FF,30:8A2BE2,70:39FF14,100:FF4FD8&section=footer" alt="footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-
 </div>

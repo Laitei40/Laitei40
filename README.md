@@ -22,7 +22,10 @@ I build practical digital tools that support **language preservation**, **educat
 - 🤝 Contribute to open-source and community-centered initiatives.
 - 🧠 Explore language technologies for documentation, learning, and discovery.
 
----
+### 2) Technical Growth
+- ⚛️ **Frontend:** React, design systems, and modern UI/UX
+- 🐍 **Backend:** Python automation, data pipelines, and APIs
+- 🗣️ **Language Tech:** NLP foundations, TTS workflows, localization, and Common Voice
 
 ## Current Priorities
 
@@ -73,9 +76,13 @@ I’m open to collaborating on:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laitei40&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laitei40&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p>
+  <a href="https://github.com/Laitei40">
+    <img src="https://img.shields.io/badge/GitHub%20Profile-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub profile" />
+  </a>
+</p>
 
-</div>
+If your project aligns with **language**, **culture**, **education**, or **community technology**, let’s collaborate.
 
 ---
 

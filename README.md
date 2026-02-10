@@ -163,16 +163,22 @@ Building accessible resources for language learners and speakers
 
 <div align="center">
 
-## 📊 GitHub Activity
+## 📊 GitHub Presence
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Laitei40&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=8a2be2&text_color=ffffff&ring_color=00d4ff&fire_color=8a2be2" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Laitei40&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=8a2be2&currStreakLabel=00d4ff&sideLabels=ffffff" alt="GitHub Streak" />
+**🔹 Active Projects**
+Building language preservation tools · Cultural archives · Community platforms
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laitei40&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" alt="Top Languages" />
+**🔹 Focus Areas**  
+React · Python · Language Technology · Open Source
 
-</div>
+**🔹 Community Impact**
+Contributing to low-resource language initiatives and accessible technology
 
 <br>
+
+[**→ Explore My Repositories**](https://github.com/Laitei40?tab=repositories)
+
+</div>
 
 ---
 

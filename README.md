@@ -107,19 +107,25 @@ I build technology that helps preserve culture, strengthen language access, and 
 
 ---
 
-## Let’s Connect
+<div align="center">
+  
+### ⚡ GitHub Stats
 
-<p>
-  <a href="https://github.com/Laitei40">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laitei40&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laitei40&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laitei40&theme=tokyonight" alt="Top Languages by Repo" />
 
 If your project aligns with **language**, **culture**, **education**, or **community technology**, I’d be happy to connect.
 
 ---
 
 <div align="center">
+  
+✨ *This repository is special because its `README.md` appears on my GitHub profile.*  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00F5FF,30:8A2BE2,70:39FF14,100:FF4FD8&section=footer" alt="footer" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00F5FF,30:8A2BE2,70:39FF14,100:FF4FD8&section=footer" alt="footer" />
 

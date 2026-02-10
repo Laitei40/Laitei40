@@ -1,132 +1,217 @@
 <div align="center">
 
-# Laitei (Laitei40) 👋
+<!-- HERO SECTION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,16,18,20&section=header&reversal=false" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=760&lines=Developer+%7C+Language+Enthusiast;Community+Contributor;Preserving+Culture+Through+Technology" alt="Typing SVG" />
+# ✨ Laitei
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Developer+%7C+Language+Technologist;Building+Bridges+Between+Culture+%26+Code;Preserving+Heritage+Through+Technology" alt="Typing SVG" />
+
+<br>
+
+**Creating digital infrastructure for underrepresented languages and communities**
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Laitei40&label=Profile%20Views&color=00d4ff&style=flat-square)
+![Status](https://img.shields.io/badge/Status-Building-00F5FF?style=flat-square&logo=github)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🌐 About
+
+I'm a developer working at the intersection of **technology, language, and cultural preservation**. My focus is building accessible, sustainable digital tools that serve communities — particularly those working with indigenous and low-resource languages.
+
+I believe that every language deserves a place in the digital world, and that technology should empower people as **storytellers, knowledge keepers, and cultural stewards**.
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 💎 What I Do
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗣️ Language Technology
+Building digital resources for indigenous and underrepresented languages:
+- Dictionaries & encyclopedias
+- Cultural archives & lyrics platforms  
+- Wikipedia & Wiktionary contributions
+- Localization & accessibility tools
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Community Impact
+Creating technology that serves people:
+- Open-source language tools
+- Educational platforms
+- Knowledge documentation systems
+- Tech support & digital literacy
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🚀 Tech Stack & Growth
+
+</div>
+```text
+Frontend       React · Modern UI/UX · Design Systems · Component Architecture
+Backend        Python · Automation · Data Pipelines · APIs
+Language Tech  NLP · TTS · Localization · Common Voice · Low-Resource ML
+Tools          Git · GitHub · VS Code · Figma · Documentation
+Focus Areas    Accessibility · Performance · Cultural Sensitivity · Open Source
+```
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🔮 Current Projects
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📚 Mara Encyclopedia
+*Knowledge documentation in Mara language*
+
+Digital preservation of cultural knowledge, stories, and traditions
+
+</td>
+<td width="33%" align="center">
+
+### 🎵 Cultural Archives
+*Songs, hymns, and oral traditions*
+
+Platform for preserving and sharing community cultural content
+
+</td>
+<td width="33%" align="center">
+
+### 🌍 Language Resources
+*Dictionaries, wikis, and learning tools*
+
+Building accessible resources for language learners and speakers
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🎯 Vision
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Laitei40&label=Profile%20views&color=00e5ff&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/Theme-Neo%20Modern-8A2BE2?style=for-the-badge" alt="Neo modern theme" />
+<b>Long-term goal:</b> Apply AI/ML techniques to low-resource language challenges<br>
+<b>Mission:</b> Improve digital inclusion, accessibility, and cultural representation<br>
+<b>Approach:</b> Community-first, sustainable, open-source
 </p>
 
-Welcome to my GitHub profile!  
-I build technology that helps preserve culture, strengthen language access, and empower communities.
+<br>
 
 ---
 
-## What I Do
-
-- 🌐 Preserve and promote indigenous and underrepresented languages through technology.
-- 💻 Build accessible, user-focused web experiences.
-- 🤝 Contribute to open-source and community-centered initiatives.
-- 🧠 Explore language technologies for documentation, learning, and discovery.
-
-### 2) Technical Growth
-- ⚛️ **Frontend:** React, design systems, and modern UI/UX
-- 🐍 **Backend:** Python automation, data pipelines, and APIs
-- 🗣️ **Language Tech:** NLP foundations, TTS workflows, localization, and Common Voice
-
-## Current Priorities
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React" />
-  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-FF4FD8?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-00E5FF?style=for-the-badge&logo=css3&logoColor=111111" alt="CSS3" />
-</p>
-### 1) Language & Culture Projects
-- **Mara Encyclopedia (Mara Kyhbu):** digital knowledge documentation in Mara.
-- **Mara language resources:** dictionary/wiki style initiatives.
-- **Lyrics and cultural archives:** preserving songs, hymns, and oral content.
-
-### 2) Technical Growth
-- **Frontend:** React, modern UI/UX systems, and component-driven design.
-- **Backend:** Python automation, data handling, and lightweight APIs.
-- **Language Tech:** NLP basics, TTS pipelines, localization workflows, and Common Voice contributions.
-
-### 3) Long-Term Vision
-- Apply **AI/ML for low-resource languages** to improve access, inclusion, and digital representation.
-
----
-
-## 🛠️ What I'm Working On
+<br>
 
 <div align="center">
 
-| Project | Description |
-|---------|-------------|
-| 🧠 **Mara Encyclopedia (Mara Kyhbu)** | Documenting Mara knowledge in the Mara language |
-| 🎵 **Mara Lyrics Platform** | Preserving songs and hymns digitally |
-| 📚 **Dictionaries & Wikis** | Mara Wikipedia, Wiktionary, and language resources |
-| 🛠️ **Community Tech Support** | Helping people access and use technology effectively |
-| 🌐 **Language Preservation Initiatives** | Bridging tradition with practical modern digital tools |
+## 📊 GitHub Activity
 
-- 🌍 Localization and translation tooling
-- 🗣️ Minority and indigenous language technology
-- 📚 Open-source tools for education and language learning
-- 🤝 Community-first digital platforms
-- 💡 Projects with real social and cultural impact
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Laitei40&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=8a2be2&text_color=ffffff&ring_color=00d4ff&fire_color=8a2be2" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Laitei40&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=8a2be2&currStreakLabel=00d4ff&sideLabels=ffffff" alt="GitHub Streak" />
 
----
-
-## 😄 Pronouns
-<img src="https://img.shields.io/badge/Pronouns-he%20%2F%20him-8A2BE2?style=for-the-badge" alt="pronouns" />
-
----
-
-## GitHub Overview
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Fun fact gif">
-</div>
-
-> I'm actively building tools and platforms that **connect traditional culture with modern technology**, believing that small languages deserve a strong future on the global digital stage. 🚀
-
-<img src="https://github-readme-stats.vercel.app/api?username=Laitei40&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laitei40&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<p>
-  <a href="https://github.com/Laitei40">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub" />
-  </a>
-</p>
-
-<div align="center">
-
-### Open to conversations about:
-🗣️ Language technology | 🤝 Open-source collaboration  
-💻 Community-focused solutions | 💡 Practical digital impact
-
-**Feel free to connect or explore my repositories!**
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laitei40&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" alt="Top Languages" />
 
 </div>
 
----
-
-<div align="center">
-  
-### ⚡ GitHub Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laitei40&theme=tokyonight" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laitei40&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laitei40&theme=tokyonight" alt="Top Languages by Repo" />
-
-If your project aligns with **language**, **culture**, **education**, or **community technology**, I’d be happy to connect.
+<br>
 
 ---
 
+<br>
+
 <div align="center">
-  
-✨ *This repository is special because its `README.md` appears on my GitHub profile.*  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00F5FF,30:8A2BE2,70:39FF14,100:FF4FD8&section=footer" alt="footer" />
+## 🤝 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00F5FF,30:8A2BE2,70:39FF14,100:FF4FD8&section=footer" alt="footer" />
+I'm open to collaboration on projects involving:
+
+**Language Preservation** · **Cultural Technology** · **Education** · **Open Source** · **Community Empowerment**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Laitei40-00d4ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laitei40)
+
+<br>
+
+*If your project aligns with language, culture, or community impact, feel free to reach out.*
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### 💭 *Building bridges between tradition and technology*
+
+<br>
+
+<sub>he/him · Developer · Language Technologist · Community Contributor</sub>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,16,18,20&section=footer" alt="footer" />
 
 </div>

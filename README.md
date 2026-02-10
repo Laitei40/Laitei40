@@ -2,16 +2,17 @@
 
 # 👋 Hi, I'm @Laitei40
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Developer+%7C+Language+Enthusiast;Community+Contributor;Preserving+Culture+Through+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=760&lines=Developer+%7C+Language+Enthusiast;Community+Contributor;Preserving+Culture+Through+Technology" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Laitei40&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Laitei40&label=Profile%20views&color=00e5ff&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Theme-Neo%20Modern-8A2BE2?style=for-the-badge" alt="Neo modern theme" />
 </p>
 
 Welcome to my GitHub profile!  
-I'm a developer, language enthusiast, and community contributor passionate about using technology to preserve culture and empower people.
+I build technology that helps preserve culture, strengthen language access, and empower communities.
 
 ---
 
@@ -47,11 +48,11 @@ const currentlyLearning = {
 ```
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React" />
+  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-FF4FD8?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-00E5FF?style=for-the-badge&logo=css3&logoColor=111111" alt="CSS3" />
 </p>
 
 ---
@@ -85,7 +86,7 @@ const currentlyLearning = {
 
 ---
 
-## ��� What I'm Working On
+## 🛠️ What I'm Working On
 
 <div align="center">
 
@@ -95,21 +96,21 @@ const currentlyLearning = {
 | 🎵 **Mara Lyrics Platform** | Preserving songs and hymns digitally |
 | 📚 **Dictionaries & Wikis** | Mara Wikipedia, Wiktionary, and language resources |
 | 🛠️ **Community Tech Support** | Helping people access and use technology effectively |
-| 🌐 **Language Preservation Projects** | Bridging tradition with modern digital tools |
+| 🌐 **Language Preservation Initiatives** | Bridging tradition with practical modern digital tools |
 
 </div>
 
 ---
 
 ## 😄 Pronouns
-<img src="https://img.shields.io/badge/Pronouns-he%20%2F%20him-blue?style=for-the-badge" alt="pronouns" />
+<img src="https://img.shields.io/badge/Pronouns-he%20%2F%20him-8A2BE2?style=for-the-badge" alt="pronouns" />
 
 ---
 
 ## ⚡ Fun Fact
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Fun fact gif">
 </div>
 
 > I'm actively building tools and platforms that **connect traditional culture with modern technology**, believing that small languages deserve a strong future on the global digital stage. 🚀
@@ -120,17 +121,17 @@ const currentlyLearning = {
 
 <p align="center">
   <a href="https://github.com/Laitei40">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub" />
   </a>
 </p>
 
 <div align="center">
 
-### If you're interested in:
-🌐 Language preservation | 🤝 Open-source collaboration  
-💻 Community-focused tech | 💡 Sharing ideas
+### Open to conversations about:
+🗣️ Language technology | 🤝 Open-source collaboration  
+💻 Community-focused solutions | 💡 Practical digital impact
 
-**Feel free to reach out or explore my repositories!**
+**Feel free to connect or explore my repositories!**
 
 </div>
 
@@ -140,11 +141,11 @@ const currentlyLearning = {
   
 ### ⚡ GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Laitei40&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laitei40&theme=tokyonight" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laitei40&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laitei40&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laitei40&theme=tokyonight" alt="Top Languages by Repo" />
 
 </div>
 
@@ -154,7 +155,7 @@ const currentlyLearning = {
   
 ✨ *This repository is special because its `README.md` appears on my GitHub profile.*  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00F5FF,30:8A2BE2,70:39FF14,100:FF4FD8&section=footer" alt="footer" />
 
 **Thanks for stopping by!** 🙏
 
